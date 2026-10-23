@@ -4,7 +4,7 @@
 
 <h2 align="center">✨ Tech Stack</h2>
 
-<h3 align="center">회사 실무</h3>
+<h3 align="center">실무</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" alt="Java" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=222222" alt="Linux" />
 </p>
 
-<h3 align="center">프론트엔드 개발 경험</h3>
+<h3 align="center">개발 경험</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
@@ -52,4 +52,11 @@
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&amp;logo=reactrouter&amp;logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&amp;logo=vitest&amp;logoColor=white" alt="Vitest" />
+</p>
+
+<h3 align="center">AI 활용 개발</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&amp;logo=claudecode&amp;logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge" alt="Codex" />
 </p>
