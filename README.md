@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=1500&amp;color=6DB33F&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=44&amp;lines=Java+%26+Spring+Backend+Developer" width="650" height="44" alt="Java &amp; Spring Backend Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=1500&amp;color=6DB33F&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=44&amp;lines=Java+%26+Spring+Backend+Developer;AI-Assisted+Development+with+Claude+Code+%26+Codex" width="650" height="44" alt="Java &amp; Spring Backend Developer | AI-Assisted Development with Claude Code &amp; Codex" />
 </p>
 
 <h2 align="center">✨ Tech Stack</h2>
