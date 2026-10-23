@@ -10,15 +10,16 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" alt="Java" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=222222" alt="JavaScript" />&nbsp;
   <img src="https://img.shields.io/badge/JSP-E76F00?style=for-the-badge" alt="JSP" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Framework" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-C74634?style=for-the-badge" alt="PL/SQL" />
   <br />
+  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Framework" />&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />&nbsp;
   <img src="https://img.shields.io/badge/MyBatis-111111?style=for-the-badge" alt="MyBatis" />&nbsp;
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery" />
+  <br />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle" />&nbsp;
   <img src="https://img.shields.io/badge/Tibero-4053D6?style=for-the-badge" alt="Tibero" />
   <br />
-  <img src="https://img.shields.io/badge/PL%2FSQL-C74634?style=for-the-badge" alt="PL/SQL" />&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery" />&nbsp;
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" />&nbsp;
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&amp;logo=apachetomcat&amp;logoColor=222222" alt="Tomcat" />&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
