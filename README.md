@@ -9,9 +9,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JSP-E76F00?style=for-the-badge" alt="JSP" />
   <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Framework" />
   <img src="https://img.shields.io/badge/MyBatis-111111?style=for-the-badge" alt="MyBatis" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-C74634?style=for-the-badge" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&amp;logo=apachetomcat&amp;logoColor=222222" alt="Tomcat" />
 </p>
 
 <h3 align="center">개인 프로젝트</h3>
@@ -21,6 +29,13 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=222222" alt="Linux" />
 </p>
 
 <h3 align="center">개발 경험</h3>
