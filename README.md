@@ -17,6 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Tibero-4053D6?style=for-the-badge" alt="Tibero" />
   <img src="https://img.shields.io/badge/PL%2FSQL-C74634?style=for-the-badge" alt="PL/SQL" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" />
@@ -44,6 +45,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue.js" />
 </p>
 
 <h3 align="center">AI 활용 개발</h3>
@@ -51,4 +53,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&amp;logo=claudecode&amp;logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge" alt="Codex" />
+  <img src="https://img.shields.io/badge/MCP-475569?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Skills-475569?style=for-the-badge" alt="Skills" />
+  <img src="https://img.shields.io/badge/Hooks-475569?style=for-the-badge" alt="Hooks" />
 </p>
