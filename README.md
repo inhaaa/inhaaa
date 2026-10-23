@@ -2,6 +2,10 @@
   <img src="https://render.gitanimals.org/farms/inhaaa" width="650" alt="gitanimals farm" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3500&amp;pause=1500&amp;color=6DB33F&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=44&amp;lines=Java+%26+Spring+Backend+Developer" width="650" height="44" alt="Java &amp; Spring Backend Developer" />
+</p>
+
 <h2 align="center">✨ Tech Stack</h2>
 
 <h3 align="center">실무</h3>
